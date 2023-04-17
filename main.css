@@ -60,7 +60,7 @@ section h2,
 
 .articles article h3{
     margin-top: 8px;
-    margin bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .articles article a {
@@ -99,6 +99,21 @@ section h2 {
 }
 
 #economy .articles article a{
-    background-color: rgb(6, 35, 6);
+    background-color: rgb(230, 165, 69);
 }
 
+#tecnology  {
+    background-color: rgba(24, 24, 177, 0.274);
+}
+
+#tecnology .articles article a{
+    background-color: rgb(9, 9, 70);
+}
+
+#entertainment {
+    background-color: rgba(245, 12, 12, 0.349);
+}
+
+#entertainment .articles article a{
+    background-color: rgba(173, 22, 22, 0.87);
+}
